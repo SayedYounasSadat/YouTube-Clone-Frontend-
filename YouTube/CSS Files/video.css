@@ -1,0 +1,33 @@
+.video-box{
+  width: 100%;
+}
+.thumbnail, .thumbnail-box{
+  width: 100%;
+  border-radius: 15px;
+}
+.video-info{
+  display: flex;
+  flex-direction: row;
+  width: 100% ;
+  margin-top: 10px;
+}
+.profile{
+  width: 50px;
+}
+.video-information{
+  flex: 1;
+}
+.channel-picture{
+  border-radius: 50px;
+  width: 35px;
+}
+.video-title{
+  font-weight: 500;
+}
+.video-stats, .publisher{
+  font-size: 13px;
+  color: gray;
+}
+.publisher{
+  margin-top: 10px;
+}
